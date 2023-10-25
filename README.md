@@ -4,7 +4,7 @@
 Open In TailwindCSS playground [https://play.tailwindcss.com/8ZWdqrpZvi](https://play.tailwindcss.com/8ZWdqrpZvi)
 
 ## NextJS Demo
-[]()
+[https://nextjs-flip-card.vercel.app/](https://nextjs-flip-card.vercel.app/)
 
 ## Setup Guide
 ### Step 1: Add required custom utility classes
